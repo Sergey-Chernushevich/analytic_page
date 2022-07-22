@@ -155,6 +155,21 @@
     padding-bottom: 15px;
   }
 
+  .nav-list {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .nav-item {
+    border-bottom: 2px solid #00a4e5;
+    padding: 20px;
+  }
+
+  .nav-item a {
+    font-size: 25px;
+  }
   .story {
     padding: 25px 0;
   }
